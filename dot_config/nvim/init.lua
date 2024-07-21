@@ -9,7 +9,7 @@ vim.opt.number = false
 vim.opt.relativenumber = true
 vim.opt.scrolloff = 10
 
--- More
+-- More settings
 vim.opt.wrap = false
 vim.opt.mouse = "a"
 vim.opt.showmode = true
